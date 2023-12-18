@@ -1,0 +1,2 @@
+HI THIS IS KEDHAR,THIS IS GIT TESTING
+after staging and again unstaging text is entered
