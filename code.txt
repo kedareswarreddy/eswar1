@@ -1,0 +1,3 @@
+HI THIS IS MY APP DEVELOPMENT
+after unstaging 
+again staging and commit the code file
